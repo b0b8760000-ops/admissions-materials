@@ -1,0 +1,4 @@
+interface:
+  display_name: "研究所申請與備審製作"
+  short_description: "從使用者需求與資料蒐集開始，核對官方要求並製作各系所備審文件"
+  default_prompt: "使用 $admissions-materials，先詢問我的申請目標、背景與現有資料，再安排選校、備審製作或送件核對。"
